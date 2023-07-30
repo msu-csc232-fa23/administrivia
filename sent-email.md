@@ -6,6 +6,27 @@ This document is meant to capture email sent to the class through out the semest
 
 The following emails were sent before the course started...
 
+### 23-30-07: Gearing up for CSC232 - Part 2
+
+> Greetings (once again)!
+>
+> In my previous email sent on 7/23, I mentioned that I would provide you with a link to the "zeroth" lab... This email serves to tell you about this lab. I'll keep this one short and sweet:
+>
+> 1. I've created a Microsoft Teams team for our class. I just added everyone to this team but I'm not sure if you get notification of that event. In case you haven't, here's a link to the team. Come take a look; it'll be updated quite a bit before class starts, but nonetheless, you may want to bookmark this link in the meantime. You will also notice that I added the "zeroth" lab assignment, so if you want to get started on it, go for it! (Said link to the assignment is located in the instructions for this assignment. As mentioned in my previous email, this will be covered in lab during the first week of classes, so there's no need to actually do this over the summer.)
+> 2. You are required to have a GitHub account for this course. Get your free one here.
+> 3. If you added this class after I sent that first email, you can see of copy of it here.
+>
+> I always think of things I wanted to say but forgot before sending emails, so don't be surprised to start getting emails from me before class starts... Looking forward to this semester; I hope you are too!
+>
+> Jim Daehn
+>
+> --
+>
+> James R. Daehn, Per-course faculty
+> 61M Cheek Hall
+> Department of Computer Science
+> Missouri State University
+
 ### 23-23-07: Gearing up for CSC232
 
 > Greetings!
