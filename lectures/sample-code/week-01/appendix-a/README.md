@@ -1,5 +1,7 @@
 # Appendix A Sample Code
 
+![Under Construction](https://cdn.pixabay.com/photo/2017/10/26/17/51/under-construction-2891888_1280.jpg)
+
 This repository consists of a number of examples shared in class from Appendix A.
 
 As most, if not all, of the assignments we are assigned, the source code is organized as a CMake project. While this greatly simplifies our lives, it is nice to know what is happening "underneath the hood," so to speak. That is, we present here, how one would compile these examples from the command line if we had no other choice.
