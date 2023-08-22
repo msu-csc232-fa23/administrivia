@@ -16,5 +16,5 @@
 int main()
 {
     std::cout << "Hello, Main!" << std::endl;
-    return 0;
+    return EXIT_SUCCESS;
 }
