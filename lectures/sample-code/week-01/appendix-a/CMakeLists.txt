@@ -33,6 +33,7 @@ set(CMAKE_CXX_STANDARD 17)
 # Source sets for targets
 set(SRC_MAIN_FILES src/main/cpp/main.cpp)
 set(SRC_DEMO_FILES src/main/cpp/demo.cpp)
+set(SRC_APP_A1_1_FILES src/main/cpp/app-a1-1.cpp)
 set(SRC_TEST_FILES src/test/cpp/unit_tests.cpp)
 
 # Setup Google Test
@@ -50,6 +51,7 @@ enable_testing()
 
 add_executable(main ${SRC_MAIN_FILES})
 add_executable(demo ${SRC_DEMO_FILES})
+add_executable(app-a1-1 ${SRC_APP_A1_1_FILES})
 add_executable(google-tests ${SRC_TEST_FILES})
 
 # Now simply link against gtest or gtest_main as needed.
@@ -59,6 +61,8 @@ gtest_discover_tests(google-tests)
 
 target_include_directories(main PUBLIC ${CMAKE_CURRENT_LIST_DIR}/include ${CMAKE_CURRENT_LIST_DIR}/src/main/cpp)
 target_include_directories(demo PUBLIC ${CMAKE_CURRENT_LIST_DIR}/include ${CMAKE_CURRENT_LIST_DIR}/src/main/cpp)
+target_include_directories(app-a1-1 PUBLIC ${CMAKE_CURRENT_LIST_DIR}/include ${CMAKE_CURRENT_LIST_DIR}/src/main/cpp)
+
 target_include_directories(google-tests PUBLIC ${CMAKE_CURRENT_LIST_DIR}/include ${CMAKE_CURRENT_LIST_DIR}/src/main/cpp)
 
 # add custom commands that copy data input files to target working directories
