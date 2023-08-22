@@ -2,11 +2,35 @@
 
 This document is meant to capture email sent to the class through out the semester.
 
+## August
+
+### 23-08-22
+
+The following was sent only to the Tuesday lab section, but it is applicable to the Thu lab section as well.
+
+> Hi Tues lab folk!
+> 
+> As previously mentioned, I will be holding lab this first week of classes. While not graded per se, it's important you come today:
+> 
+> - completing this lab is crucial -- we need to link your GitHub accounts with my GitHub Classroom Roster
+> - completing this lab will provide with bonus points for your lab average
+> 
+> See you in Cheek 209 at 12:30!
+> 
+> JD
+>
+> --
+> 
+> James R. Daehn, Per-course Faculty
+> 201B Cheek Hall
+> Department of Computer Science
+> Missouri State University
+
 ## July
 
 The following emails were sent before the course started...
 
-### 23-30-07: Gearing up for CSC232 - Part 2
+### 23-07-30: Gearing up for CSC232 - Part 2
 
 > Greetings (once again)!
 >
@@ -27,7 +51,7 @@ The following emails were sent before the course started...
 > Department of Computer Science
 > Missouri State University
 
-### 23-23-07: Gearing up for CSC232
+### 23-07-23: Gearing up for CSC232
 
 > Greetings!
 >
