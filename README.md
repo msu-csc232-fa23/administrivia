@@ -22,3 +22,4 @@ Below are some links to sample code that supplements and/or complements the lect
 
 - [Appendix A](lectures/sample-code/week-01/appendix-a/README.md)
   - [Volume of a Sphere](lectures/sample-code/week-01/appendix-a/src/main/cpp/app-a1-1.cpp)
+- [Appendix A.6-A.7](https://msu-csc232-fa23.github.io/arrays/)
