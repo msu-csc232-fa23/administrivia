@@ -6,9 +6,9 @@ A repository to share communication delivered to the Data Structures course offe
 
 To see the emails that have been delivered to the class over the course of the semester, see [sent-email.md](sent-email.md).
 
-## Videos
+## Weekly Schedule
 
-To look back at previous lectures, or suggested videos, see the [videos](videos.md) page.
+To look back at previous lectures, or obtain links to ICE (In-Class Exercise) repositories, see the [Weekly Schedule](schedule.md) page.
 
 ## Challenges
 

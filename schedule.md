@@ -1,4 +1,4 @@
-# Recorded Lectures and ICE links
+# Weekly Schedule
 
 This page contains links to various lectures recorded as Teams meetings as well as other useful videos and ICE (In-Class Exercises) repositories.
 
